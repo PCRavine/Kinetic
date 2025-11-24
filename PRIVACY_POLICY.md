@@ -145,8 +145,8 @@ This app complies with:
 
 If you have questions or concerns about this Privacy Policy or our privacy practices, please contact us:
 
-**Email**: [Your Email Address]
-**Developer**: [Your Name/Company Name]
+**Email**: blindrisestudio@gmail.com
+**Developer**: Blindrise Studio
 **App**: KINETIC - A Physics-Based Card Game
 
 ## Legal Disclaimer
